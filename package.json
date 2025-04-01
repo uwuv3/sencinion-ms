@@ -1,0 +1,17 @@
+{
+  "name": "@sencinion/ms",
+  "version": "0.0.1",
+  "description": "Türk kullanıcılar için çevirilmiş ms modülü",
+  "main": "dist/index.js",
+  "scripts": {},
+  "keywords": [
+    "ms",
+    "turkms",
+    "turkce"
+  ],
+  "author": "uwuv3",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.13.15"
+  }
+}
