@@ -14,6 +14,16 @@
   "devDependencies": {
     "@types/node": "^22.13.15"
   },
-  "typings": "dist/ms.d.ts"
-  
+  "typings": "dist/ms.d.ts",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uwuv3/sencinion-ms.git"
+  },
+  "bugs": {
+    "url": "https://github.com/uwuv3/sencinion-ms/issues"
+  },
+  "homepage": "https://github.com/uwuv3/sencinion-ms#readme"
 }
