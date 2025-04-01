@@ -1,4 +1,4 @@
-const ms = require("../dist/ms");
+const ms = require("@sencinion/ms");
 
 const normal = ms("2 days 3 hours 4 minutes 5 seconds 6 milliseconds");
 const parse = ms("2 days 3 hours 4 minutes 5 seconds 6 milliseconds",true);
